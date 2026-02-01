@@ -1,8 +1,7 @@
 import loggin@tahi24_7_bot
 from aiogram import Bot, Dispatcher, executor, types
 
-API_TOKEN = "BOT_TOKEN_СЮДА"
-8474406247:AAGwhLBcd1AWJ6hGImjq-SLA-nvUl-jmLFg
+API_TOKEN = "8474406247:AAGwhLBcd1AWJ6hGImjq-SLA-nvUl-jmLFg"
 logging.basicConfig(level=logging.INFO)
 
 bot = Bot(token=API_TOKEN)
